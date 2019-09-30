@@ -1,3 +1,3 @@
-# Current Resume ( Feel free to USE Template )
+### Current Resume ( Feel free to USE Template )
 
 <img src="resume.png">
